@@ -1,0 +1,8 @@
+{
+  "name": "@spooky/spooky-docs",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Sovereign documentation portal for docs.spookynet.dev. Misplaced inside Kraken Code. Extraction target: Kraken Code/products/spooky-docs.",
+  "license": "MIT",
+  "_scaffold": true
+}
